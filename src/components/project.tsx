@@ -16,7 +16,7 @@ type ProjectProps = {
     github: string
 };
 
-function Project({slug, name, category, image, description, technologies, link, github}: ProjectProps) {
+function Project({name, category, image, description, technologies, link, github}: ProjectProps) {
   return (
     <div className='w-full grid grid-cols-1 gap-4 items-center
     lg:grid-cols-2
