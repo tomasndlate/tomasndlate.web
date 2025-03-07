@@ -150,8 +150,8 @@ export const projects: Project[] = [
             and a PostgreSQL database. Stripe handles payments, and Auth.js manages authentication.
         </>),
         technologies: ["Next.js", "Stripe", "Auth.js", "Prisma", "Python", "Sk-Learn", "AWS Lambda", "AWS API Gateway", "Tailwind"],
-        link: "https://ml-experiment-ai.vercel.app/",
-        github: "https://github.com/tomasndlate/ml-experiment.ai"
+        link: "https://experiment-ai-web.vercel.app/",
+        github: "https://github.com/tomasndlate/experiment-ai.web"
     },
     {
         id: 1,
